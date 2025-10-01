@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<yml_catalog date="2025-10-01 12:24">
+	<shop>
+		<name>ramen.ru</name>
+		<company>Ramen.ru</company>
+		<url>https://www.ramen.ru</url>
+		<currencies>
+			<currency id="RUR" rate="1"/>
+		</currencies>
+		<delivery-options>
+			<option cost="300" days="0" order-before="12"/>
+		</delivery-options>
+		<categories>
+			<category id="314" order="314" picture="https://www.ramen.ru/upload/uf/112/cu2hfhny95t1qm2ooty9grc94g2i9b9s.jpg">Мясо, птица и утка</category>
+			<category id="369" order="369" picture="https://www.ramen.ru/upload/uf/740/a0n0aw5chi76a2vmgv00xnrneh3duxd1.jpg" parentId="314">Говядина</category>
+			<category id="359" order="359" picture="https://www.ramen.ru/upload/uf/c63/cxxsvp0b2llg99e2hjtktvqc6fcvq4lz.jpg" parentId="315">Вареная колбаса, ветчина</category>
+		</categories>
+
+		<offers>
+
+		<offer id="5213" available="true" group_id="14090" bid="80">
+			<name>Колбаса С телятиной и сыром вареная</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>5213</vendorCode>
+			<url>https://www.ramen.ru/catalog/kolbasy-sosiski-i-sardelki/varenaya-kolbasa-vetchina/kolbasa_s_telyatinoy_i_syrom_varenaya/</url>
+			<oldprice>1100</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>359</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/d25/73s14hk9iefyv5th0r9o5i1d3dw20aac.jpg</picture>
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="001;002;">5;0;</param>
+			<description>
+			<![CDATA[
+				Состав: свинина, говядина, вода питьевая, сыр  м.д.ж. 50% ( молоко нормализованное пастеризованное, соль пищевая, молокосвертывающий ферментный препарат животного происхождения, закваски бактериальные ( основная заквасочная микрофлора – мезофильные микроорганизмы), яйца куриные, сыворотка  молочная, смесь молочных белков, лактоза, соль пищевая, сахар-песок, мускатный орех молотый, мальтодекстрин, антиокислители – пиросульфит натрия, аскорбат натрия, нитритно-посолочная смесь (соль пищевая,  фиксатор окраски – нитрит натрия), ароматизатор мясной, усилитель вкуса и аромата – глутамат натрия 1-замещенный, экстракты специй ( перец черный), декстроза, краситель – кармины.
+			]]>
+			</description>
+			<tags>
+				<tag name="NEW">Да</tag>
+			</tags>
+			<price>995</price>
+			<unit>кг</unit>
+			<min_count>0.2</min_count>
+			<increment>0.2</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3134303930</barcode>
+		</offer>
+
+		<offer id="1400" available="true" group_id="14022" bid="80">
+			<name>Голяшка на кости охлажденная</name>
+			<vendor>Раменский деликатес</vendor>
+			<vendorCode>1400</vendorCode>
+			<url>https://www.ramen.ru/catalog/myaso-ptitsa-utka/govyadina/golyashka_na_kosti_okhlazhdennaya/</url>
+			<oldprice>900</oldprice>
+			<currencyId>RUR</currencyId>
+			<categoryId>369</categoryId>
+			<picture>https://www.ramen.ru/upload/iblock/918/2ic1k6juxjeyufp971ypajpmzq0doupr.jpg</picture>
+			<store>false</store>
+			<pickup>true</pickup>
+			<delivery>true</delivery>
+			<delivery-options>
+				<option cost="300" days="0" order-before="12"/>
+			</delivery-options>
+			<param name="placemark_amount" unit="001;002;">2.500;8.750;</param>
+			<description>
+			<![CDATA[
+				Описание: Голяшка на кости – нижняя часть передней или задней ноги туши коровы.
+				Состав: говядина
+			]]>
+			</description>
+			<price>806</price>
+			<unit>кг</unit>
+			<min_count>1</min_count>
+			<increment>1</increment>
+			<price_unit>г</price_unit>
+			<price_factor>1000</price_factor>
+			<sales_notes>Необходима предоплата.</sales_notes>
+			<manufacturer_warranty>true</manufacturer_warranty>
+			<country_of_origin>Россия</country_of_origin>
+			<barcode>3134303232</barcode>
+		</offer>
+
+		</offers>
+	</shop>
+</yml_catalog>
