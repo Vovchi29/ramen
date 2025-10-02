@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2025-10-01 12:30">
+<yml_catalog date="2025-10-01 12:31">
 	<shop>
 		<name>test-feed</name>
 		<company>Test</company>
@@ -32,7 +32,7 @@
 			<delivery-options>
 				<option cost="300" days="0" order-before="12"/>
 			</delivery-options>
-			<param name="placemark_amount" unit="001;">5; 0;</param>
+			<param name="placemark_amount" unit="001; 002;">5; 0;</param>
 			<description>
 			<![CDATA[
 				Состав
