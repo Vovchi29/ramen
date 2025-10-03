@@ -32,7 +32,7 @@
 			<delivery-options>
 				<option cost="300" days="0" order-before="12"/>
 			</delivery-options>
-			<param name="placemark_amount" unit="001; 002;">5; 0;</param>
+			<param name="placemark_amount" unit="001; 002;">5; 15;</param>
 			<description>
 			<![CDATA[
 				Состав
